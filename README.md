@@ -64,8 +64,6 @@ The website is best suited for a job applicant who is actively looking for a job
 
 **Dataflow Diagram**
 
-**Provides dataflow diagram(s) that strictly follow the standard convensions to clearly identify the processes within your application. Clearly depicts where data is coming from, where it is going and how it is being stored.**
-
 ![Dataflow Diagram Diagram - Personal Job Application Management](./docs/DataFlowDiagram.jpeg)
 
 
@@ -74,7 +72,7 @@ The website is best suited for a job applicant who is actively looking for a job
 
 **Application Architecture Diagram**
 
-**Shows almost flawless understanding of the high level structure of the app**
+![Application Architecture - Job Application Management](./docs/ApplicationArchitecture.jpg)
 
 
 
