@@ -36,7 +36,7 @@ All the points listed above are highly likely to help the job applicant to manag
 2. A Single page application.
 3. Registration and Signing in with just the required information.
 4. Display of applications grouped by company and option to see the details including advertisement, resume and cover letter.
-5. Option to add, remove, change and delete application.
+5. Option to add, retrieve, change and delete application.
 6. Links to company information.
 7. Link to twitter feed of the company.
 
@@ -86,7 +86,19 @@ The website is best suited for a job applicant who is actively looking for a job
 
 **Provides multiple user stories that use ‘persona, what and why’ that outline meaningful features of project. Shows evidence of user story revision and refinement.**
 
+**Brainstorming**
 
+![User Stories Raw](./docs/UserStoriesRaw.png)
+
+
+
+**Refinement**
+
+![User stories refined](./docs/UserStoriesRefine.png)
+
+**Revision**
+
+![User Stories Revise](./docs/UserStoriesReview.png)
 
 
 
