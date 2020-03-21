@@ -100,13 +100,89 @@ User Stories
 
 **Requirement R5**
 
-**Wireframes for multiple standard screen sizes, created using industry standard software**
+Wireframes for multiple standard screen sizes, created using industry standard software
 
-**Utilise an industry standard program for creation of wireframes & CMP1043-5.3 Provide UX/UI design documentation(wireframes) that adequately show Agile methodology implementation.**
+**Index Page Browser**
 
-**Provides wireframes that show exceptional planning of project flow and structure including but not limited to space distribution, content prioritisation, intended actions, functions, relationships between screens.**
+![MainPageBrowser](/Users/pramods/term4/PramodSreekumaran_T4A2-A/docs/MainPageBrowser.png)
 
 
+
+**Index Page with Expanded Hamburger Menu on Mobile**
+
+![ExpandedMenuMobile](./docs/ExpandedMenuMobile.png)
+
+
+
+**Register User on Browser**
+
+![RegisterUserBrowser](./docs/RegisterUserBrowser.png)
+
+
+
+**Register User on Mobile**
+
+![RegisterMobile](./docs/RegisterMobile.png)
+
+
+
+**Sign In User on Browser**
+
+![SignInUserBrowser](./docs/SignInUserBrowser.png)
+
+
+
+**Sign In User on Mobile**
+
+![SignInMobile](./docs/SignInMobile.png)
+
+
+
+**Add Job Application on Browser**
+
+![AddApplicationBrowser](./docs/AddApplicationBrowser.png)
+
+
+
+**Add Job Application on Mobile**
+
+![AddApplicationMobile](./docs/AddApplicationMobile.png)
+
+
+
+**List of Job Applications on Browser**
+
+![ListOfApplicationsBrowser](./docs/ListOfApplicationsBrowser.png)
+
+
+
+**List of Job Applications on Mobile**
+
+![ListofApplicationsMobile](./docs/ListofApplicationsMobile.png)
+
+
+
+**Edit Job Application Details on Browser**
+
+![EditApplicationDetailsBrowser](./docs/EditApplicationDetailsBrowser.png)
+
+
+
+**Edit Job Application Details on Mobile**
+
+![EditApplicationDetailsMobile](./docs/EditApplicationDetailsMobile.png)
+
+
+
+**Delete Job Application on Browser**
+
+![DeleteBrowser](./docs/DeleteBrowser.png)
+
+
+
+**Delete Job Application on Mobile**
+
+![DeleteMobile](./docs/DeleteMobile.png)
 
 
 
