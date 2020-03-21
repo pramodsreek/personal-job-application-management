@@ -1,12 +1,10 @@
-**Requirements**
+**Requirements - T4A2-A - Full Stack Application - Part A**
 
-
-
-
+-------------------------------------------------------------------------------------------------
 
 **Requirement R1**
 
-**Description of your website, including:**
+Description of your website, including:
 
 **\- Purpose**
 
@@ -58,33 +56,31 @@ The website is best suited for a job applicant who is actively looking for a job
 
 **Cloud Application Platform**: Heroku
 
-
+-------------------------------------------------------------------------------------------------
 
 **Requirement R2**
 
-**Dataflow Diagram**
+Dataflow Diagram
 
 ![Dataflow Diagram Diagram - Personal Job Application Management](./docs/DataFlowDiagram.jpeg)
 
 
 
+-------------------------------------------------------------------------------------------------
+
 **Requirement R3**
 
-**Application Architecture Diagram**
+Application Architecture Diagram
 
 ![Application Architecture - Job Application Management](./docs/ApplicationArchitecture.jpg)
 
 
 
-
+-------------------------------------------------------------------------------------------------
 
 **Requirement R4**
 
-**User Stories**
-
-**Provide UX/UI design documentation(user stories) that adequately show Agile methodology implementation.**
-
-**Provides multiple user stories that use ‘persona, what and why’ that outline meaningful features of project. Shows evidence of user story revision and refinement.**
+User Stories
 
 **Brainstorming**
 
@@ -100,7 +96,7 @@ The website is best suited for a job applicant who is actively looking for a job
 
 ![User Stories Revise](./docs/UserStoriesReview.png)
 
-
+-------------------------------------------------------------------------------------------------
 
 **Requirement R5**
 
@@ -114,9 +110,11 @@ The website is best suited for a job applicant who is actively looking for a job
 
 
 
+-------------------------------------------------------------------------------------------------
+
 **Requirement R6**
 
-**Screenshots of your Trello board throughout the duration of the project**
+Screenshots of your Trello board throughout the duration of the project
 
 **Screenshots with Date**
 
@@ -184,7 +182,9 @@ The website is best suited for a job applicant who is actively looking for a job
 
 ![TrelloBoard-21_03_2020](./docs/TrelloBoard-21_03_2020.png)
 
- 
+-------------------------------------------------------------------------------------------------
+
+
 
 
 
