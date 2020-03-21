@@ -104,7 +104,7 @@ Wireframes for multiple standard screen sizes, created using industry standard s
 
 **Index Page Browser**
 
-![MainPageBrowser](/Users/pramods/term4/PramodSreekumaran_T4A2-A/docs/MainPageBrowser.png)
+![MainPageBrowser](./docs/MainPageBrowser.png)
 
 
 
