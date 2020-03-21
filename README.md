@@ -118,11 +118,73 @@ The website is best suited for a job applicant who is actively looking for a job
 
 **Screenshots of your Trello board throughout the duration of the project**
 
-**Select and follow a commonly used planning methodology, such as Kanban, Trello, Jira, or Asana.**
+**Screenshots with Date**
 
-**Simple and clear standards for planning methodology chosen and adhered to**
+**07 March 2020** 
+
+![TrelloBoard-07_03_2020](./docs/TrelloBoard-07_03_2020.png)
+
+**09 March 2020**
+
+![TrelloBoard-09_03_2020](./docs/TrelloBoard-09_03_2020.png)
+
+**10 March 2020 - 11 am**
+
+![TrelloBoard-10_03_2020](./docs/TrelloBoard-10_03_2020.png)
 
 
+
+**10 March 2020 - 4:30 pm**
+
+![TrelloBoard-10_03_2020-COB](./docs/TrelloBoard-10_03_2020-COB.png)
+
+
+
+**11 March 2020**
+
+![TrelloBoard-11_03_2020](./docs/TrelloBoard-11_03_2020.png)
+
+
+
+**12 March 2020**
+
+![TrelloBoard-12_03_2020](./docs/TrelloBoard-12_03_2020.png)
+
+**13 March 2020**
+
+![TrelloBoard-13_03_2020](./docs/TrelloBoard-13_03_2020.png)
+
+
+
+**14 March 2020**
+
+![TrelloBoard-14_03_2020](./docs/TrelloBoard-14_03_2020.png)
+
+
+
+**16 March 2020**
+
+![TrelloBoard-16_03_2020](./docs/TrelloBoard-16_03_2020.png)
+
+
+
+**17 March 2020**
+
+![TrelloBoard-17_03_2020](./docs/TrelloBoard-17_03_2020.png)
+
+
+
+**20 March 2020**
+
+![TrelloBoard-20_03_2020](./docs/TrelloBoard-20_03_2020.png)
+
+
+
+**21 March 2020**
+
+![TrelloBoard-21_03_2020](./docs/TrelloBoard-21_03_2020.png)
+
+ 
 
 
 
